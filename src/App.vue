@@ -2,7 +2,7 @@
 import { computed, reactive, ref } from 'vue'
 import { useFetch } from '@vueuse/core'
 
-const url = ref('https://aica.pages.dev/all.json')
+const url = ref('src/assets/all.json')
 const refetch = ref(false)
 const {
   data,
