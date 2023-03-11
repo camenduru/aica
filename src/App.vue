@@ -1,47 +1,51 @@
-<script setup>
-import HelloWorld from './components/HelloWorld.vue'
-import TheWelcome from './components/TheWelcome.vue'
+<script setup lang="ts">
+import { computed, reactive, ref } from 'vue'
+import { useFetch } from '@vueuse/core'
+
+const url = ref('https://aica.pages.dev/all.json')
+const refetch = ref(false)
+const {
+  data,
+  error,
+  statusCode,
+  isFetching,
+  isFinished,
+  canAbort,
+} = useFetch(url, { refetch }).get()
+const text = reactive({
+  isFinished,
+  isFetching,
+  canAbort,
+  statusCode,
+  error,
+  data: computed(() => {
+    try {
+      return JSON.parse(data.value as string)
+    }
+    catch (e) {
+      return null
+    }
+  }),
+})
 </script>
 
 <template>
-  <header>
-    <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
-
-    <div class="wrapper">
-      <HelloWorld msg="You did it!" />
-    </div>
-  </header>
-
-  <main>
-    <TheWelcome />
-  </main>
+    <masonry-wall :items="text.data" :ssr-columns="1" :column-width="350" :gap="10">
+      <template #default="{ item, index }">
+        <div>
+          <h1>{{ item.creator_username }}</h1>
+          <img :src="`https://via.placeholder.com/300x300`" />
+          <br>
+          <div>
+            <img :src="`https://via.placeholder.com/72x64`" /> <img :src="`https://via.placeholder.com/72x64`" /> <img :src="`https://via.placeholder.com/72x64`" /> <img :src="`https://via.placeholder.com/72x64`" /> 
+          </div>
+          <a :href="`${item.online[0]}`"><img :src="`https://colab.research.google.com/assets/colab-badge.svg`" /></a>
+          <p>name: {{ item.model_name }}</p>
+          <p>version: {{ item.model_version }}</p>
+          <p>type: {{ item.type[0] }}</p>
+          <p>tokens:</p>
+          <div v-for="(token, token_index) in item.tokens" :key="token_index">{{ token }}</div>
+        </div>
+      </template>
+    </masonry-wall>
 </template>
-
-<style scoped>
-header {
-  line-height: 1.5;
-}
-
-.logo {
-  display: block;
-  margin: 0 auto 2rem;
-}
-
-@media (min-width: 1024px) {
-  header {
-    display: flex;
-    place-items: center;
-    padding-right: calc(var(--section-gap) / 2);
-  }
-
-  .logo {
-    margin: 0 2rem 0 0;
-  }
-
-  header .wrapper {
-    display: flex;
-    place-items: flex-start;
-    flex-wrap: wrap;
-  }
-}
-</style>
