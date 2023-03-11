@@ -37,7 +37,7 @@ const text = reactive({
           <img :src="`https://via.placeholder.com/300x300`" />
           <br>
           <div>
-            <img :src="`https://via.placeholder.com/72x64`" /> <img :src="`https://via.placeholder.com/72x64`" /> <img :src="`https://via.placeholder.com/72x64`" /> <img :src="`https://via.placeholder.com/72x64`" /> 
+            <img :src="`https://via.placeholder.com/70x64`" /> <img :src="`https://via.placeholder.com/70x64`" /> <img :src="`https://via.placeholder.com/70x64`" /> <img :src="`https://via.placeholder.com/70x64`" /> 
           </div>
           <a :href="`${item.online[0]}`"><img :src="`https://colab.research.google.com/assets/colab-badge.svg`" /></a>
           <p>name: {{ item.model_name }}</p>
