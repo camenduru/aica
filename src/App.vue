@@ -30,7 +30,7 @@ const text = reactive({
 </script>
 
 <template>
-    <masonry-wall :items="text.data" :ssr-columns="1" :column-width="350" :gap="10">
+    <masonry-wall v-if="text.data" :items="text.data" :ssr-columns="1" :column-width="350" :gap="10">
       <template #default="{ item, index }">
         <div>
           <h1>{{ item.creator_username }}</h1>
