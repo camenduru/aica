@@ -1,29 +1,14 @@
-# aica
+🐣 Please follow me for new updates https://twitter.com/camenduru <br />
+🔥 Please join our discord server https://discord.gg/k5BwmmvJJU
 
-This template should help get you started developing with Vue 3 in Vite.
+## 🚦WIP🚦
 
-## Recommended IDE Setup
+## AICA Front-End
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## JSON & Preview
 
-## Customize configuration
+JSON: https://aica-dev.pages.dev <br />
+Preview: https://aica.vercel.app
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+## AICA Back-End
+https://github.com/camenduru/ai-creator-archive
