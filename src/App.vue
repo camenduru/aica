@@ -25,6 +25,10 @@ const text = reactive({
 </script>
 
 <template>
+  <div class="creator-archive">
+    <h1>AICA</h1>
+    <h3>AI Creator Archive</h3>
+  </div>
   <masonry-wall
     v-if="text.data"
     :items="text.data"
