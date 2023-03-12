@@ -5,10 +5,10 @@
 
 ## AICA Front-End
 
-## JSON & Preview
+## Preview
 
-JSON: https://aica-dev.pages.dev <br />
-Preview: https://aica.vercel.app
+https://aica-dev.pages.dev <br />
+https://aica.vercel.app
 
 ## AICA Back-End
 https://github.com/camenduru/ai-creator-archive
