@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
-
 /* color palette from <https://github.com/vuejs/theme> */
 :root {
   --vt-c-white: #ffffff;
@@ -79,7 +78,6 @@ body {
 #app {
   padding: 1rem;
 }
-
 .grid-item {
   background-color: var(--color-background-soft);
   padding: 20px;
@@ -97,7 +95,6 @@ body {
   display: inline;
   margin: 0;
 }
-
 .creator-archive h1 {
   margin-right: 10px;
 }
