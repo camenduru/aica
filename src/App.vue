@@ -37,13 +37,15 @@ const text = reactive({
         <span style="float: right; font-size: 12px;">v{{ item.model_version }}</span>
         <img :src="`${item.images[0]}`" width="288" />
         <br />
-        <div>
+        <!-- <div>
           <img style="padding-right: 3px;" :src="`https://via.placeholder.com/69x69`" />
           <img style="padding-right: 3px;" :src="`https://via.placeholder.com/69x69`" />
           <img style="padding-right: 3px;" :src="`https://via.placeholder.com/69x69`" />
           <img :src="`https://via.placeholder.com/69x69`" />
-        </div>
-        <a :href="`${item.online[0]}`"><img :src="`https://colab.research.google.com/assets/colab-badge.svg`" /></a>
+        </div> -->
+        <a :href="`${item.online[0]}`"><img :src="`https://badgen.net/badge/🦓/lite/yellow`" /></a>&nbsp;
+        <a :href="`${item.online[1]}`"><img :src="`https://badgen.net/badge/🐴/stable/orange`" /></a>&nbsp;
+        <a :href="`${item.online[2]}`"><img :src="`https://badgen.net/badge/🦄/nightly/pink`" /></a>
         <p>Creator: {{ item.creator_username }}</p>
         <p>Type: {{ item.type[0] }}</p>
         <span v-if="item.tokens[0]">Tokens: </span>
