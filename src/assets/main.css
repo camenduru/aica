@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 /* color palette from <https://github.com/vuejs/theme> */
 :root {
   --vt-c-white: #ffffff;
@@ -65,15 +66,33 @@ body {
   background: var(--color-background);
   transition: color 0.5s, background-color 0.5s;
   line-height: 1.6;
-  font-family: Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
-    Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-family: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
   font-size: 15px;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-
 #app {
-  padding: 2rem;
+  padding: 1rem;
+}
+.grid-item {
+  background-color: var(--color-background-soft);
+  padding: 20px;
+  margin: 20px;
+  border-radius: 18px;
+}
+.creator-archive {
+  display: inline-block;
+}
+
+.creator-archive h1,
+.creator-archive h3 {
+  display: inline;
+  margin: 0;
+}
+.creator-archive h1 {
+  margin-right: 10px;
 }
