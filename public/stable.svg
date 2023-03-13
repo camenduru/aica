@@ -1,0 +1,20 @@
+<svg width="76.91999999999999" height="24" viewBox="0 0 641 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="🐴: stable">
+  <title>🐴: stable</title>
+  <linearGradient id="a" x2="0" y2="100%">
+    <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <mask id="m"><rect width="641" height="200" rx="30" fill="#FFF"/></mask>
+  <g mask="url(#m)">
+    <rect width="210" height="200" fill="#555"/>
+    <rect width="431" height="200" fill="#F73" x="210"/>
+    <rect width="641" height="200" fill="url(#a)"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="60" y="148" textLength="110" fill="#000" opacity="0.25">🐴</text>
+    <text x="50" y="138" textLength="110">🐴</text>
+    <text x="265" y="148" textLength="331" fill="#000" opacity="0.25">stable</text>
+    <text x="255" y="138" textLength="331">stable</text>
+  </g>
+  
+</svg>

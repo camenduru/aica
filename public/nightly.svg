@@ -1,0 +1,20 @@
+<svg width="82.44" height="24" viewBox="0 0 687 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="🦄: nightly">
+  <title>🦄: nightly</title>
+  <linearGradient id="a" x2="0" y2="100%">
+    <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <mask id="m"><rect width="687" height="200" rx="30" fill="#FFF"/></mask>
+  <g mask="url(#m)">
+    <rect width="210" height="200" fill="#555"/>
+    <rect width="477" height="200" fill="#E5B" x="210"/>
+    <rect width="687" height="200" fill="url(#a)"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="60" y="148" textLength="110" fill="#000" opacity="0.25">🦄</text>
+    <text x="50" y="138" textLength="110">🦄</text>
+    <text x="265" y="148" textLength="377" fill="#000" opacity="0.25">nightly</text>
+    <text x="255" y="138" textLength="377">nightly</text>
+  </g>
+  
+</svg>
