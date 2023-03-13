@@ -35,7 +35,7 @@ const text = reactive({
       <div class="grid-item">
         <span style="font-size: 16px;">{{ item.model_name }}</span>
         <span style="float: right; font-size: 12px;">v{{ item.model_version }}</span>
-        <img :src="`https://via.placeholder.com/288x300`" />
+        <img :src="`${item.images[0]}`" width="288" />
         <br />
         <div>
           <img style="padding-right: 3px;" :src="`https://via.placeholder.com/69x69`" />
