@@ -33,14 +33,14 @@ const text = reactive({
   <masonry-wall v-if="text.data" :items="text.data" :ssr-columns="1" :column-width="350" :gap="10">
     <template #default="{ item, index }">
       <div class="grid-item">
-        <h2>{{ item.model_name }}</h2>
-        <p>Version: {{ item.model_version }}</p>
-        <img :src="`https://via.placeholder.com/282x300`" />
+        <span style="font-size: 16px;">{{ item.model_name }}</span>
+        <span style="float: right; font-size: 12px;">v{{ item.model_version }}</span>
+        <img :src="`https://via.placeholder.com/288x300`" />
         <br />
         <div>
-          <img style="padding-right: 2px;" :src="`https://via.placeholder.com/69x69`" />
-          <img style="padding-right: 2px;" :src="`https://via.placeholder.com/69x69`" />
-          <img style="padding-right: 2px;" :src="`https://via.placeholder.com/69x69`" />
+          <img style="padding-right: 3px;" :src="`https://via.placeholder.com/69x69`" />
+          <img style="padding-right: 3px;" :src="`https://via.placeholder.com/69x69`" />
+          <img style="padding-right: 3px;" :src="`https://via.placeholder.com/69x69`" />
           <img :src="`https://via.placeholder.com/69x69`" />
         </div>
         <a :href="`${item.online[0]}`"><img :src="`https://colab.research.google.com/assets/colab-badge.svg`" /></a>
