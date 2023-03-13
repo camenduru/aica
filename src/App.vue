@@ -27,7 +27,7 @@ const text = reactive({
 
 <template>
   <div class="creator-archive">
-  <img src="logo.png" width="42" height="42" />
+  <img src="/logo.png" width="42" height="42" />
   <span style="font-size: 50px; color: #E6E6E6;"> AI</span><span style="font-size: 50px; color: hotpink;">CA </span>
   <a href="https://github.com/camenduru/ai-creator-archive"><span style="font-size: 14px; color: whitesmoke;"> AI </span>
     <span style="font-size: 14px; color: hotpink;">Creator Archive</span></a> + <a
@@ -37,11 +37,11 @@ const text = reactive({
     <br>
     <div>
       <a href="https://github.com/camenduru/stable-diffusion-webui-colab"><img alt="GitHub"
-          src="github.svg" /></a>&nbsp;
+          src="/github.svg" /></a>&nbsp;
       <a href="https://twitter.com/camenduru"><img alt="Twitter"
-          src="twitter.svg" /></a>&nbsp;
+          src="/twitter.svg" /></a>&nbsp;
       <a href="https://discord.gg/k5BwmmvJJU"><img alt="Discord"
-          src="discord.svg" /></a>&nbsp;
+          src="/discord.svg" /></a>&nbsp;
     </div>
   </div>
   <masonry-wall v-if="text.data" :items="text.data" :ssr-columns="1" :column-width="350" :gap="10">
@@ -57,9 +57,9 @@ const text = reactive({
               <img style="padding-right: 3px;" :src="`https://via.placeholder.com/69x69`" />
               <img :src="`https://via.placeholder.com/69x69`" />
             </div> -->
-        <a :href="`${item.online[0]}`"><img src="lite.svg" /></a>&nbsp;
-        <a :href="`${item.online[1]}`"><img src="stable.svg" /></a>&nbsp;
-        <a :href="`${item.online[2]}`"><img src="nightly.svg" /></a>
+        <a :href="`${item.online[0]}`"><img src="/lite.svg" /></a>&nbsp;
+        <a :href="`${item.online[1]}`"><img src="/stable.svg" /></a>&nbsp;
+        <a :href="`${item.online[2]}`"><img src="/nightly.svg" /></a>
         <p>Creator: {{ item.creator_username }}</p>
         <p>Type: {{ item.type[0] }}</p>
         <span v-if="item.tokens[0]">Tokens: </span>
