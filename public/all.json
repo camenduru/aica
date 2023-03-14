@@ -64,9 +64,9 @@
         "model_name": "refslave",
         "model_version": "2_0_0",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/lite/stable/refslave_v2_webui_colab.ipynb",
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/refslave_v2_webui_colab.ipynb",
             "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/refslave_v2_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/nightly/stable/refslave_v2_webui_colab.ipynb"
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/refslave_v2_webui_colab.ipynb"
         ],
         "tokens": [],
         "type": [],
@@ -85,9 +85,9 @@
         "model_name": "liberty",
         "model_version": "1_0_0",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/lite/stable/liberty_webui_colab.ipynb",
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/liberty_webui_colab.ipynb",
             "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/liberty_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/nightly/stable/liberty_webui_colab.ipynb"
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/liberty_webui_colab.ipynb"
         ],
         "tokens": [],
         "type": [],
@@ -184,9 +184,9 @@
         "model_name": "rpg",
         "model_version": "4_0_0",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/lite/stable/rpg_v4_webui_colab.ipynb",
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/rpg_v4_webui_colab.ipynb",
             "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/rpg_v4_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/nightly/stable/rpg_v4_webui_colab.ipynb"
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/rpg_v4_webui_colab.ipynb"
         ],
         "tokens": [],
         "type": [],
@@ -361,9 +361,9 @@
         "model_name": "perfect_world",
         "model_version": "2_0_0",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/lite/stable/perfect_world_v2_webui_colab.ipynb",
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/perfect_world_v2_webui_colab.ipynb",
             "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/perfect_world_v2_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/nightly/stable/perfect_world_v2_webui_colab.ipynb"
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/perfect_world_v2_webui_colab.ipynb"
         ],
         "tokens": [],
         "type": [],
@@ -432,9 +432,9 @@
         "model_name": "chilloutmix",
         "model_version": "1_0_0",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/lite/stable/chillout_mix_webui_colab.ipynb",
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/chillout_mix_webui_colab.ipynb",
             "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/chillout_mix_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/nightly/stable/chillout_mix_webui_colab.ipynb"
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/chillout_mix_webui_colab.ipynb"
         ],
         "tokens": [],
         "type": [],
@@ -478,9 +478,9 @@
         "model_name": "dpepmkmp",
         "model_version": "1_0_0",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/lite/stable/dpepmkmp_webui_colab.ipynb",
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/dpepmkmp_webui_colab.ipynb",
             "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/dpepmkmp_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/nightly/stable/dpepmkmp_webui_colab.ipynb"
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/dpepmkmp_webui_colab.ipynb"
         ],
         "tokens": [],
         "type": [],
@@ -499,9 +499,9 @@
         "model_name": "mouseymix",
         "model_version": "1_0_0",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/lite/stable/mousey_mix_webui_colab.ipynb",
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/mousey_mix_webui_colab.ipynb",
             "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/mousey_mix_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/nightly/stable/mousey_mix_webui_colab.ipynb"
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/mousey_mix_webui_colab.ipynb"
         ],
         "tokens": [],
         "type": [],
@@ -624,9 +624,9 @@
         "model_name": "protogen_nova",
         "model_version": "1_0_0",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/lite/stable/protogen_nova_webui_colab.ipynb",
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/protogen_nova_webui_colab.ipynb",
             "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/protogen_nova_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/nightly/stable/protogen_nova_webui_colab.ipynb"
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/protogen_nova_webui_colab.ipynb"
         ],
         "tokens": [],
         "type": [],
@@ -645,9 +645,9 @@
         "model_name": "protogen_x",
         "model_version": "3_4_0",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/lite/stable/protogen_x3_4_webui_colab.ipynb",
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/protogen_x3_4_webui_colab.ipynb",
             "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/protogen_x3_4_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/nightly/stable/protogen_x3_4_webui_colab.ipynb"
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/protogen_x3_4_webui_colab.ipynb"
         ],
         "tokens": [],
         "type": [],
@@ -666,9 +666,9 @@
         "model_name": "defmix",
         "model_version": "2_0_0",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/lite/stable/defmix_v2_webui_colab.ipynb",
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/defmix_v2_webui_colab.ipynb",
             "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/defmix_v2_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/nightly/stable/defmix_v2_webui_colab.ipynb"
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/defmix_v2_webui_colab.ipynb"
         ],
         "tokens": [],
         "type": [],
@@ -870,9 +870,9 @@
         "model_name": "realistic_vision",
         "model_version": "1_3_0",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/lite/stable/realistic_vision_v13_webui_colab.ipynb",
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/realistic_vision_v13_webui_colab.ipynb",
             "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/realistic_vision_v13_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/nightly/stable/realistic_vision_v13_webui_colab.ipynb"
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/realistic_vision_v13_webui_colab.ipynb"
         ],
         "tokens": [],
         "type": [],
@@ -1074,9 +1074,9 @@
         "model_name": "illuminati",
         "model_version": "1_1_0",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/lite/stable/illuminati_v1_1_webui_colab.ipynb",
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/illuminati_v1_1_webui_colab.ipynb",
             "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/illuminati_v1_1_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/nightly/stable/illuminati_v1_1_webui_colab.ipynb"
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/illuminati_v1_1_webui_colab.ipynb"
         ],
         "tokens": [],
         "type": [],
@@ -1148,9 +1148,9 @@
         "model_name": "padoru",
         "model_version": "1_0_0",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/lite/stable/padoru_v1_webui_colab.ipynb",
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/padoru_v1_webui_colab.ipynb",
             "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/padoru_v1_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/nightly/stable/padoru_v1_webui_colab.ipynb"
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/padoru_v1_webui_colab.ipynb"
         ],
         "tokens": [],
         "type": [],
@@ -1244,9 +1244,9 @@
         "model_name": "voxo",
         "model_version": "1_0_0",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/lite/stable/voxo_webui_colab.ipynb",
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/voxo_webui_colab.ipynb",
             "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/voxo_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/nightly/stable/voxo_webui_colab.ipynb"
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/voxo_webui_colab.ipynb"
         ],
         "tokens": [],
         "type": [],
@@ -1265,9 +1265,9 @@
         "model_name": "mare_coloris",
         "model_version": "1_0_0",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/lite/stable/mare_coloris_webui_colab.ipynb",
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/mare_coloris_webui_colab.ipynb",
             "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/mare_coloris_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/nightly/stable/mare_coloris_webui_colab.ipynb"
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/mare_coloris_webui_colab.ipynb"
         ],
         "tokens": [],
         "type": [],
@@ -1286,9 +1286,9 @@
         "model_name": "neverending_dream",
         "model_version": "1_0_0",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/lite/stable/neverending_dream_webui_colab.ipynb",
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/neverending_dream_webui_colab.ipynb",
             "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/neverending_dream_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/nightly/stable/neverending_dream_webui_colab.ipynb"
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/neverending_dream_webui_colab.ipynb"
         ],
         "tokens": [],
         "type": [],
@@ -1357,9 +1357,9 @@
         "model_name": "magical_mix",
         "model_version": "1_0_0",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/lite/stable/magical_mix_v1_webui_colab.ipynb",
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/magical_mix_v1_webui_colab.ipynb",
             "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/magical_mix_v1_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/nightly/stable/magical_mix_v1_webui_colab.ipynb"
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/magical_mix_v1_webui_colab.ipynb"
         ],
         "tokens": [],
         "type": [],
@@ -1378,9 +1378,9 @@
         "model_name": "color_bomb_mix",
         "model_version": "1_0_0",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/lite/stable/color_bomb_mix_webui_colab.ipynb",
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/color_bomb_mix_webui_colab.ipynb",
             "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/color_bomb_mix_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/nightly/stable/color_bomb_mix_webui_colab.ipynb"
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/color_bomb_mix_webui_colab.ipynb"
         ],
         "tokens": [],
         "type": [],
@@ -1538,9 +1538,9 @@
         "model_name": "pvc",
         "model_version": "3_0_0",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/lite/stable/pvc_v3_webui_colab.ipynb",
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/pvc_v3_webui_colab.ipynb",
             "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/pvc_v3_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/nightly/stable/pvc_v3_webui_colab.ipynb"
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/pvc_v3_webui_colab.ipynb"
         ],
         "tokens": [],
         "type": [],
@@ -1613,9 +1613,9 @@
         "model_name": "graphic_art",
         "model_version": "1_0_0",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/lite/stable/graphic_art_webui_colab.ipynb",
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/graphic_art_webui_colab.ipynb",
             "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/graphic_art_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/nightly/stable/graphic_art_webui_colab.ipynb"
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/graphic_art_webui_colab.ipynb"
         ],
         "tokens": [],
         "type": [],
@@ -1714,9 +1714,9 @@
         "model_name": "dream_like_sam_kuvshino",
         "model_version": "1_0_0",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/lite/stable/dream_like_sam_kuvshino_webui_colab.ipynb",
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/dream_like_sam_kuvshino_webui_colab.ipynb",
             "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/dream_like_sam_kuvshino_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/nightly/stable/dream_like_sam_kuvshino_webui_colab.ipynb"
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/dream_like_sam_kuvshino_webui_colab.ipynb"
         ],
         "tokens": [],
         "type": [],
@@ -1889,9 +1889,9 @@
         "model_name": "alfamix",
         "model_version": "1_0_0",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/lite/stable/alfamix_webui_colab.ipynb",
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/alfamix_webui_colab.ipynb",
             "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/alfamix_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/nightly/stable/alfamix_webui_colab.ipynb"
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/alfamix_webui_colab.ipynb"
         ],
         "tokens": [],
         "type": [],
@@ -2060,9 +2060,9 @@
         "model_name": "stablydiffuseds_aesthetic_mix",
         "model_version": "1_0_0",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/lite/stable/stablydiffuseds_aesthetic_mix_webui_colab.ipynb",
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/stablydiffuseds_aesthetic_mix_webui_colab.ipynb",
             "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/stablydiffuseds_aesthetic_mix_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/nightly/stable/stablydiffuseds_aesthetic_mix_webui_colab.ipynb"
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/stablydiffuseds_aesthetic_mix_webui_colab.ipynb"
         ],
         "tokens": [],
         "type": [],
@@ -2081,9 +2081,9 @@
         "model_name": "7th_layer",
         "model_version": "1_0_0",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/lite/stable/7th_layer_webui_colab.ipynb",
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/7th_layer_webui_colab.ipynb",
             "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/7th_layer_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/nightly/stable/7th_layer_webui_colab.ipynb"
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/7th_layer_webui_colab.ipynb"
         ],
         "tokens": [],
         "type": [],
@@ -2327,9 +2327,9 @@
         "model_name": "sukiyaki_mix",
         "model_version": "1_0_0",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/lite/stable/sukiyaki_mix_v1_webui_colab.ipynb",
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/sukiyaki_mix_v1_webui_colab.ipynb",
             "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/sukiyaki_mix_v1_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/nightly/stable/sukiyaki_mix_v1_webui_colab.ipynb"
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/sukiyaki_mix_v1_webui_colab.ipynb"
         ],
         "tokens": [],
         "type": [],
@@ -2348,9 +2348,9 @@
         "model_name": "waifu_diffusion",
         "model_version": "1_5_0",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/lite/stable/waifu_diffusion_v1_5_webui_colab.ipynb",
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/waifu_diffusion_v1_5_webui_colab.ipynb",
             "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/waifu_diffusion_v1_5_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/nightly/stable/waifu_diffusion_v1_5_webui_colab.ipynb"
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/waifu_diffusion_v1_5_webui_colab.ipynb"
         ],
         "tokens": [],
         "type": [],
@@ -2369,9 +2369,9 @@
         "model_name": "waifu_diffusion",
         "model_version": "1_5_2",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/lite/stable/waifu_diffusion_v1_5_b2_webui_colab.ipynb",
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/waifu_diffusion_v1_5_b2_webui_colab.ipynb",
             "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/waifu_diffusion_v1_5_b2_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/nightly/stable/waifu_diffusion_v1_5_b2_webui_colab.ipynb"
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/waifu_diffusion_v1_5_b2_webui_colab.ipynb"
         ],
         "tokens": [],
         "type": [],
@@ -2417,9 +2417,9 @@
         "model_name": "orange_mixs",
         "model_version": "2_0_0",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/lite/stable/abyss_orange_mix_2_webui_colab.ipynb",
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/abyss_orange_mix_2_webui_colab.ipynb",
             "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/abyss_orange_mix_2_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/nightly/stable/abyss_orange_mix_2_webui_colab.ipynb"
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/abyss_orange_mix_2_webui_colab.ipynb"
         ],
         "tokens": [],
         "type": [],
@@ -2438,9 +2438,9 @@
         "model_name": "orange_mixs",
         "model_version": "3_0_0",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/lite/stable/abyss_orange_mix_3_webui_colab.ipynb",
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/abyss_orange_mix_3_webui_colab.ipynb",
             "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/abyss_orange_mix_3_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/nightly/stable/abyss_orange_mix_3_webui_colab.ipynb"
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/abyss_orange_mix_3_webui_colab.ipynb"
         ],
         "tokens": [],
         "type": [],
@@ -2486,9 +2486,9 @@
         "model_name": "deliberate",
         "model_version": "1_0_0",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/lite/stable/deliberate_webui_colab.ipynb",
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/deliberate_webui_colab.ipynb",
             "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/deliberate_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/nightly/stable/deliberate_webui_colab.ipynb"
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/deliberate_webui_colab.ipynb"
         ],
         "tokens": [],
         "type": [],
@@ -2507,9 +2507,9 @@
         "model_name": "vinte_protogen_mix",
         "model_version": "1_0_0",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/lite/stable/vinte_protogen_mix_v_1_0_webui_colab.ipynb",
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/vinte_protogen_mix_v_1_0_webui_colab.ipynb",
             "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/vinte_protogen_mix_v_1_0_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/nightly/stable/vinte_protogen_mix_v_1_0_webui_colab.ipynb"
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/vinte_protogen_mix_v_1_0_webui_colab.ipynb"
         ],
         "tokens": [],
         "type": [],
