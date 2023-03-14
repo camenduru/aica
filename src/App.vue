@@ -43,6 +43,12 @@ const text = reactive({
       <a href="https://discord.gg/k5BwmmvJJU"><img alt="Discord"
           src="/discord.svg" /></a>&nbsp;
     </div>
+    <br>
+    <div>
+      <p><img src="/lite.svg" /> has a stable WebUI and stable installed extensions.</p>
+      <p><img src="/stable.svg" /> has ControlNet, a stable WebUI, and stable installed extensions.</p>
+      <p><img src="/nightly.svg" />  has ControlNet, the latest WebUI, and daily installed extension updates.</p>
+    </div>
   </div>
   <masonry-wall v-if="text.data" :items="text.data" :ssr-columns="1" :column-width="350" :gap="10">
     <template #default="{ item, index }">
