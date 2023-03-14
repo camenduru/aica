@@ -40,7 +40,8 @@ const text = reactive({
       <a href="https://github.com/camenduru/stable-diffusion-webui-colab"><img alt="GitHub" src="/github.svg" /></a>&nbsp;
       <a href="https://twitter.com/camenduru"><img alt="Twitter" src="/twitter.svg" /></a>&nbsp;
       <a href="https://discord.gg/k5BwmmvJJU"><img alt="Discord" src="/discord.svg" /></a>&nbsp;
-      <span style="font-size: 20px; color: hotpink;">🚧</span><span style="font-size: 18px; color: hotpink;"> Still </span><span style="font-size: 18px; color: whitesmoke;">in development</span>
+      <br>
+      🚧<span style="font-size: 14px; color: hotpink;"> Still </span><span style="font-size: 14px; color: whitesmoke;">in development</span>
     </div>
     <br>
     <div>
@@ -57,11 +58,11 @@ const text = reactive({
         <img :src="`${item.images[0]}`" width="288" />
         <br />
         <!-- <div>
-                <img style="padding-right: 3px;" :src="`https://via.placeholder.com/69x69`" />
-                <img style="padding-right: 3px;" :src="`https://via.placeholder.com/69x69`" />
-                <img style="padding-right: 3px;" :src="`https://via.placeholder.com/69x69`" />
-                <img :src="`https://via.placeholder.com/69x69`" />
-              </div> -->
+          <img style="padding-right: 3px;" :src="`https://via.placeholder.com/69x69`" />
+          <img style="padding-right: 3px;" :src="`https://via.placeholder.com/69x69`" />
+          <img style="padding-right: 3px;" :src="`https://via.placeholder.com/69x69`" />
+          <img :src="`https://via.placeholder.com/69x69`" />
+        </div> -->
         <a :href="`${item.online[0]}`"><img src="/lite.svg" /></a>&nbsp;
         <a :href="`${item.online[1]}`"><img src="/stable.svg" /></a>&nbsp;
         <a :href="`${item.online[2]}`"><img src="/nightly.svg" /></a>
