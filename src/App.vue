@@ -3,7 +3,7 @@ import { computed, reactive, ref } from "vue";
 import { useFetch } from "@vueuse/core";
 
 document.title = "AICA - AI Creator Archive";
-const url = ref("https://aica.vercel.app/all.json");
+const url = ref("/all.json");
 const refetch = ref(false);
 const { data, error, statusCode, isFetching, isFinished, canAbort } = useFetch(
   url,
