@@ -32,17 +32,20 @@ const text = reactive({
     <a href="https://github.com/camenduru/ai-creator-archive"><span style="font-size: 12px; color: whitesmoke;"> AI
       </span>
       <span style="font-size: 12px; color: hotpink;">Creator Archive</span></a>
-  + <a href="https://github.com/camenduru/stable-diffusion-webui-colab"><span
-      style="font-size: 12px; color: whitesmoke;">Stable Diffusion</span> <span
-      style="font-size: 12px; color: hotpink;">WebUI Colab</span></a>
+    + <a href="https://github.com/camenduru/stable-diffusion-webui-colab"><span
+        style="font-size: 12px; color: whitesmoke;">Stable Diffusion</span> <span
+        style="font-size: 12px; color: hotpink;">WebUI Colab</span></a>
   <br>
   <div>
-      <a href="https://github.com/camenduru/stable-diffusion-webui-colab"><img alt="GitHub" src="/github.svg" /></a>&nbsp;
-      <a href="https://twitter.com/camenduru"><img alt="Twitter" src="/twitter.svg" /></a>&nbsp;
-      <a href="https://discord.gg/k5BwmmvJJU"><img alt="Discord" src="/discord.svg" /></a>&nbsp;
+    <a href="https://github.com/camenduru/stable-diffusion-webui-colab"><img alt="GitHub" src="/github.svg" /></a>&nbsp;
+    <a href="https://twitter.com/camenduru"><img alt="Twitter" src="/twitter.svg" /></a>&nbsp;
+    <a href="https://discord.gg/k5BwmmvJJU"><img alt="Discord" src="/discord.svg" /></a>&nbsp;
       <br>
       🚧<span style="font-size: 14px; color: hotpink;"> Still </span><span style="font-size: 14px; color: whitesmoke;">in
-        development</span>
+        development.</span> <span style="font-size: 14px; color: whitesmoke;">🚧 These</span> <span
+        style="font-size: 14px; color: hotpink;">images</span> <span style="font-size: 14px; color: whitesmoke;">are for
+        <span style="font-size: 14px; color: hotpink;">testing</span> purposes only. We will <span
+          style="font-size: 14px; color: hotpink;">generate</span> images later.</span>
     </div>
     <br>
     <div>
