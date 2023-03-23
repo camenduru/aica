@@ -1062,27 +1062,6 @@
         "vae": []
     },
     {
-        "creator_username": "illuminati_ai",
-        "images": [
-            "https://images-ext-2.discordapp.net/external/--Yp9H13V8kphP5Chcbn9zxRH8xKiY_fTcyal9-AmeA/https/imagecache.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1f399cf3-9cec-46e5-42d2-a39838102600/width%3D1200?width=492&height=656",
-            "https://aica.pages.dev/creators/illuminati_ai/illuminati/1_1_0/2.png",
-            "https://aica.pages.dev/creators/illuminati_ai/illuminati/1_1_0/3.png",
-            "https://aica.pages.dev/creators/illuminati_ai/illuminati/1_1_0/4.png"
-        ],
-        "info": "https://aica.pages.dev/creators/illuminati_ai/illuminati/1_1_0/info.txt",
-        "links": [],
-        "model_name": "illuminati",
-        "model_version": "1_1_0",
-        "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/illuminati_v1_1_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/illuminati_v1_1_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/illuminati_v1_1_webui_colab.ipynb"
-        ],
-        "tokens": [],
-        "type": [],
-        "vae": []
-    },
-    {
         "creator_username": "inzamam567",
         "images": [
             "https://media.discordapp.net/attachments/1080131813881683978/1084727714482761819/width2048.png?width=525&height=656",
