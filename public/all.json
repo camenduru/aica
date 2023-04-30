@@ -1743,9 +1743,9 @@
         "model_name": "riffusion_model",
         "model_version": "1_0_0",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/riffusion_v1_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/riffusion_v1_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/riffusion_v1_webui_colab.ipynb"
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/special/lite/riffusion_v1_webui_colab.ipynb",
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/special/stable/riffusion_v1_webui_colab.ipynb",
+            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/special/nightly/riffusion_v1_webui_colab.ipynb"
         ],
         "tokens": [],
         "type": [
